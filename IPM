@@ -1,0 +1,6 @@
+5G Core Network Functions have considerable hours handling non-peak to medium-peak traffic that gives us opportunity to run the CPU with higher efficiency at lower power consumption in this time intervals.
+Intel Infrastructure Power Manager (IPM) gathers telemetry information about real CPU load of 5G VNFs in real time (millisecond interval) and manages CPU cores to run efficiently maintaining SLA and reducing power.
+SPR introduces inbuilt newer (and faster) C-states to save power during low load conditions. This can be achieved out-of-box without any change to the workloads.
+Significant power savings can be achieved using newer C-states in SPR and IPM as shown in the benchmark data.
+The technology can help save on energy costs incurred by CoSPs and furthering sustainability goals by reducing overall greenhouse gas emissions.
+Lab trials of IPM are in progress with Operators and CoSPs - NEC, SK Telecom and Samsung along with India CoSPs - Airtel.
